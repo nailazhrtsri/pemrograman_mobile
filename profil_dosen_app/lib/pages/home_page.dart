@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'detail_page.dart';
 
-// Model Data Dosen (Sederhana)
+// Model Data Dosen(Sederhana)
 class Dosen {
   final String nama;
   final String nidn;
