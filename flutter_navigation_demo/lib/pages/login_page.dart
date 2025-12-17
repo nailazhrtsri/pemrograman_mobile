@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'dashboard_page.dart'; // Import dashboard
+import 'dashboard_page.dart';
 
 class LoginPage extends StatelessWidget {
   const LoginPage({super.key});
